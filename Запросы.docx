@@ -1,0 +1,11 @@
+1. Выводит имена всех продавцов, имеющих заказы от Seamens
+Select Salesperson.Name FROM Orders JOIN Salesperson ON Salesperson.ID = Orders.saleperson_id Where Orders.cust_id = 7
+2. Выводит имена всех продавцов, не имеющих заказы от Seamens
+Select Salesperson.Name FROM Orders JOIN Salesperson ON Salesperson.ID = Orders.saleperson_id
+Where Salesperson.Name NOT in (Select Salesperson.Name From Orders JOIN Salesperson ON Salesperson.ID = Orders.saleperson_id Where Orders.cust_id = 7)
+Except Select Salesperson.Name FROM Orders JOIN Salesperson ON Salesperson.ID = Orders.saleperson_id Where Orders.cust_id = 7
+3. Выводит имена всех продавцов, имеющих два и более заказов
+Select Salesperson.Name From Orders Join Salesperson ON Orders.saleperson_id = Salesperson.ID Group by Salesperson.Name, Orders.saleperson_id Having COUNT(*) >= 2
+4. Вставляет в таблицу TopSales (Name, Age) записи обо всех продавцах, зарплата которых больше 100 000.
+Insert into TopSales (Name, Age) Select Name, Age From Salesperson Where Salary > 100000
+

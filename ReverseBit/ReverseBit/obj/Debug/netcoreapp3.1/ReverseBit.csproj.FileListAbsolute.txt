@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.exe
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.deps.json
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.runtimeconfig.json
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.dll
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\bin\Debug\netcoreapp3.1\ReverseBit.pdb
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.AssemblyInfo.cs
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.dll
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.pdb
+C:\Users\admin\source\repos\ReverseBit\ReverseBit\obj\Debug\netcoreapp3.1\ReverseBit.genruntimeconfig.cache
